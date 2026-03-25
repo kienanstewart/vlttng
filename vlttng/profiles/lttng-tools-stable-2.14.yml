@@ -1,0 +1,4 @@
+projects:
+  lttng-tools:
+    source: 'https://git.lttng.org/lttng-tools.git'
+    checkout: stable-2.14

@@ -1,0 +1,4 @@
+projects:
+  lttng-modules:
+    source: 'https://git.lttng.org/lttng-modules.git'
+    checkout: stable-2.15

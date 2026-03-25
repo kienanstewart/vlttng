@@ -1,0 +1,4 @@
+projects:
+  babeltrace2:
+    source: https://git.efficios.com/babeltrace.git
+    checkout: stable-2.1
