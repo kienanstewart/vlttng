@@ -1,3 +1,4 @@
 projects:
   babeltrace2:
     source: https://git.efficios.com/babeltrace.git
+    configure: '--enable-vendor-catch2 --enable-vendor-fmt --enable-vendor-pytest'
